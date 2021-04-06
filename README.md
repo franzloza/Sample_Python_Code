@@ -9,12 +9,12 @@ This version allows single entry input in Terminal.
 Numeric entries outputs the calculation.
 Nonnumeric entries quit the program.
 
-To execute program in Terminal, enter: 
+To execute the program in Terminal, enter: 
   python3 singleEntry.py
 
 
 ## File Input
 This version allows a file input containing the number entries.
 
-To execute program in Terminal, enter: 
+To execute the program in Terminal, enter: 
   python3 selectFile.py numbers.txt
